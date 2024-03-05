@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\bin\Debug\_3.Timer___DateTime.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\bin\Debug\_3.Timer___DateTime.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\bin\Debug\_3.Timer___DateTime.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\obj\Debug\3. Timer + DateTime.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\obj\Debug\_3.Timer___DateTime.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\obj\Debug\_3.Timer___DateTime.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\obj\Debug\3. Timer + DateTime.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\obj\Debug\3. Timer + DateTime.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\obj\Debug\_3.Timer___DateTime.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\3. Timer + DateTime\3. Timer + DateTime\obj\Debug\_3.Timer___DateTime.pdb
