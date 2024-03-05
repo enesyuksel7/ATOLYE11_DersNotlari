@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\bin\Debug\_5.DGW_TB.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\bin\Debug\_5.DGW_TB.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\bin\Debug\_5.DGW_TB.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\obj\Debug\5. DGW+TB.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\obj\Debug\_5.DGW_TB.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\obj\Debug\_5.DGW_TB.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\obj\Debug\5. DGW+TB.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\obj\Debug\5. DGW+TB.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\obj\Debug\_5.DGW_TB.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\5. DGW+TB\5. DGW+TB\obj\Debug\_5.DGW_TB.pdb
