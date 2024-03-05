@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\bin\Debug\_6.DGW___Events.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\bin\Debug\_6.DGW___Events.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\bin\Debug\_6.DGW___Events.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\obj\Debug\6. DGW + Events.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\obj\Debug\_6.DGW___Events.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\obj\Debug\_6.DGW___Events.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\obj\Debug\6. DGW + Events.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\obj\Debug\6. DGW + Events.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\obj\Debug\_6.DGW___Events.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\6. DGW + Events\6. DGW + Events\obj\Debug\_6.DGW___Events.pdb
