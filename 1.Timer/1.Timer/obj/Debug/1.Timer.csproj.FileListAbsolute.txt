@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\bin\Debug\1.Timer.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\bin\Debug\1.Timer.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\bin\Debug\1.Timer.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\obj\Debug\1.Timer.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\obj\Debug\_1.Timer.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\obj\Debug\_1.Timer.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\obj\Debug\1.Timer.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\obj\Debug\1.Timer.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\obj\Debug\1.Timer.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\1.Timer\1.Timer\obj\Debug\1.Timer.pdb
