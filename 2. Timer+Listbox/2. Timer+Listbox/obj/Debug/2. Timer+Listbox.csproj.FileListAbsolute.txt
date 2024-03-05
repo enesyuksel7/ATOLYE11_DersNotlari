@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\bin\Debug\_2.Timer_Listbox.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\bin\Debug\_2.Timer_Listbox.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\bin\Debug\_2.Timer_Listbox.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\obj\Debug\2. Timer+Listbox.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\obj\Debug\_2.Timer_Listbox.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\obj\Debug\_2.Timer_Listbox.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\obj\Debug\2. Timer+Listbox.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\obj\Debug\2. Timer+Listbox.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\obj\Debug\_2.Timer_Listbox.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\2. Timer+Listbox\2. Timer+Listbox\obj\Debug\_2.Timer_Listbox.pdb
