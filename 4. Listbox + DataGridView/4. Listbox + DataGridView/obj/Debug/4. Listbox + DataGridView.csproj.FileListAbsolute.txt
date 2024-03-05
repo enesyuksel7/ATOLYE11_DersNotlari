@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\bin\Debug\_4.Listbox___DataGridView.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\bin\Debug\_4.Listbox___DataGridView.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\bin\Debug\_4.Listbox___DataGridView.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\obj\Debug\4. Listbox + DataGridView.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\obj\Debug\_4.Listbox___DataGridView.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\obj\Debug\_4.Listbox___DataGridView.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\obj\Debug\4. Listbox + DataGridView.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\obj\Debug\4. Listbox + DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\obj\Debug\_4.Listbox___DataGridView.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\4. Listbox + DataGridView\4. Listbox + DataGridView\obj\Debug\_4.Listbox___DataGridView.pdb
