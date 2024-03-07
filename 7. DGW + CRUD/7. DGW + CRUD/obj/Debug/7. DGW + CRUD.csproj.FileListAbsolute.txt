@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\bin\Debug\_7.DGW___CRUD.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\bin\Debug\_7.DGW___CRUD.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\bin\Debug\_7.DGW___CRUD.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\obj\Debug\7. DGW + CRUD.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\obj\Debug\_7.DGW___CRUD.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\obj\Debug\_7.DGW___CRUD.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\obj\Debug\7. DGW + CRUD.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\obj\Debug\7. DGW + CRUD.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\obj\Debug\_7.DGW___CRUD.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\7. DGW + CRUD\7. DGW + CRUD\obj\Debug\_7.DGW___CRUD.pdb
