@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\bin\Debug\_9.Listbox_CRUD_Index.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\bin\Debug\_9.Listbox_CRUD_Index.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\bin\Debug\_9.Listbox_CRUD_Index.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\obj\Debug\9. Listbox+CRUD+Index.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\obj\Debug\_9.Listbox_CRUD_Index.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\obj\Debug\_9.Listbox_CRUD_Index.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\obj\Debug\9. Listbox+CRUD+Index.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\obj\Debug\9. Listbox+CRUD+Index.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\obj\Debug\_9.Listbox_CRUD_Index.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\9. Listbox+CRUD+Index\9. Listbox+CRUD+Index\obj\Debug\_9.Listbox_CRUD_Index.pdb
