@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\bin\Debug\_11.Class___Toolbox.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\bin\Debug\_11.Class___Toolbox.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\bin\Debug\_11.Class___Toolbox.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\obj\Debug\11. Class + Toolbox.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\obj\Debug\_11.Class___Toolbox.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\obj\Debug\_11.Class___Toolbox.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\obj\Debug\11. Class + Toolbox.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\obj\Debug\11. Class + Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\obj\Debug\_11.Class___Toolbox.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\11. Class + Toolbox\11. Class + Toolbox\obj\Debug\_11.Class___Toolbox.pdb
