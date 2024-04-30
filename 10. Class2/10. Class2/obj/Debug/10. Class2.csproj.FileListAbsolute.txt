@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\bin\Debug\_10.Class2.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\bin\Debug\_10.Class2.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\bin\Debug\_10.Class2.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\obj\Debug\10. Class2.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\obj\Debug\_10.Class2.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\obj\Debug\_10.Class2.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\obj\Debug\10. Class2.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\obj\Debug\10. Class2.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\obj\Debug\_10.Class2.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\10. Class2\10. Class2\obj\Debug\_10.Class2.pdb
