@@ -1,0 +1,11 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\13. Class+DGW.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\_13.Class_DGW.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\_13.Class_DGW.Form2.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\_13.Class_DGW.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\13. Class+DGW.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\13. Class+DGW.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\bin\Debug\_13.Class_DGW.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\bin\Debug\_13.Class_DGW.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\bin\Debug\_13.Class_DGW.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\_13.Class_DGW.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\13. Class+DGW\13. Class+DGW\obj\Debug\_13.Class_DGW.pdb
