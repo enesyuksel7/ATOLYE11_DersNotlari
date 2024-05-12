@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\bin\Debug\_15.Mini_Game.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\bin\Debug\_15.Mini_Game.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\bin\Debug\_15.Mini_Game.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\obj\Debug\15. Mini Game.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\obj\Debug\_15.Mini_Game.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\obj\Debug\_15.Mini_Game.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\obj\Debug\15. Mini Game.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\obj\Debug\15. Mini Game.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\obj\Debug\_15.Mini_Game.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\15. Mini Game\15. Mini Game\obj\Debug\_15.Mini_Game.pdb
