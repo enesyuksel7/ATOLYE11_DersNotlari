@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\bin\Debug\_16.Class_and_Tools_Example.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\bin\Debug\_16.Class_and_Tools_Example.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\bin\Debug\_16.Class_and_Tools_Example.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\obj\Debug\16. Class and Tools Example.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\obj\Debug\_16.Class_and_Tools_Example.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\obj\Debug\_16.Class_and_Tools_Example.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\obj\Debug\16. Class and Tools Example.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\obj\Debug\16. Class and Tools Example.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\obj\Debug\_16.Class_and_Tools_Example.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\16. Class and Tools Example\16. Class and Tools Example\obj\Debug\_16.Class_and_Tools_Example.pdb
