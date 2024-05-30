@@ -1,0 +1,10 @@
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\bin\Debug\_17.Class___Foreach.exe.config
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\bin\Debug\_17.Class___Foreach.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\bin\Debug\_17.Class___Foreach.pdb
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\obj\Debug\17. Class + Foreach.csproj.AssemblyReference.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\obj\Debug\_17.Class___Foreach.Form1.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\obj\Debug\_17.Class___Foreach.Properties.Resources.resources
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\obj\Debug\17. Class + Foreach.csproj.GenerateResource.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\obj\Debug\17. Class + Foreach.csproj.CoreCompileInputs.cache
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\obj\Debug\_17.Class___Foreach.exe
+C:\Users\jetti\Documents\Visual Studio 2019\Projects\17. Class + Foreach\17. Class + Foreach\obj\Debug\_17.Class___Foreach.pdb
